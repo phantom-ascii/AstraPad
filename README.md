@@ -36,7 +36,7 @@ So instead of complaining about it, I decided to build something.
 
 ## Building it
 
-I'm designing everything from scratch using KiCad and FreeCAD, then writing the firmware myself.
+I'm designing everything from scratch using KiCad and FreeCAD, then writing the firmware with the help of ai.
 
 This is my first proper PCB project, so things will probably break.
 
