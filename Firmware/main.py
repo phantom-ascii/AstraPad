@@ -1,2 +1,6 @@
-# AstraPad firmware
-# KMK firmware will go here
+import board
+
+from kmk.kmk_keyboard import KMKKeyboard
+from kmk.keys import KC
+
+keyboard = KMKKeyboard()
