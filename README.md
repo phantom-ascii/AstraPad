@@ -45,8 +45,8 @@ That's part of it.
 ## Progress
 
 * [x] Schematic
-* [ ] PCB
-* [ ] Case
+* [x] PCB
+* [x] Case
 * [ ] Firmware
 * [ ] Order parts
 * [ ] Assemble
