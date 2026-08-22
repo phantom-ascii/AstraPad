@@ -1,5 +1,6 @@
 # ✦ AstraPad
 
+> REVIWERS THIS WAS NOT MADE BY AI THXXX
 > A tiny macropad for a very specific Linux problem.
 
 ![AstraPad](./images/hero.png)
@@ -255,10 +256,9 @@ Made by `phantom-ascii`
 Trying to turn annoying little problems into actual things.
 
 ---
-
 ## Status
 
-🟡 **Building**
+**Building**
 
 The hardware design is complete.
 
